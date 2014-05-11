@@ -1,4 +1,4 @@
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-gen\com\example\hello\R.java \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\HolaAndroidNotification.ap_ \
  : D:\Proyectos\Android\HolaAndroidNotification\platforms\android\res\drawable\icon.png \
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\res\drawable-hdpi\icon.png \
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\res\drawable-ldpi\icon.png \
@@ -11,4 +11,15 @@ D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\res\dra
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\res\drawable-ldpi\icon.png \
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\res\drawable-mdpi\icon.png \
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\_where-is-www.txt \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\cordova.js \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\cordova_plugins.js \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\css \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\img \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\index.html \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\js \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\css\index.css \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\img\logo.png \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\assets\www\js\index.js \
 D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\AndroidManifest.xml \

@@ -1,27 +1,9 @@
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes.dex : \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\HelloCordova.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener$1.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener$1.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\geolocation\CordovaLocationListener$LocationTimeoutTask.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\geolocation\CordovaLocationListener.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\geolocation\GeoBroker.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\geolocation\GPSListener.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\geolocation\NetworkListener.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\classes\org\apache\cordova\vibration\Vibration.class \
-D:\Proyectos\Android\HelloWorldCordova\platforms\android\ant-build\dexedLibs\classes-b1a53c7d93302b26ae291ae292780fe4.jar \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes.dex : \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\HolaAndroidNotification.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$string.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R.class \
+D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\dexedLibs\classes-a555ccadc9dc4da00cf4c78d12b1ea88.jar \

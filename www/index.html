@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Alerta en caso de que caiga el telefono</title>
+    <title>Alerta y vibracion en el telefono</title>
 
-    <script type="text/javascript" charset="utf-8" src="cordova-2.3.0.js"></script>
+    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
     <script type="text/javascript" charset="utf-8">
 
     // Wait for Cordova to load
@@ -11,33 +11,28 @@
     document.addEventListener("deviceready", onDeviceReady, false);
 
     // Cordova is ready
-    //
-    function onDeviceReady() {
-        navigator.geolocation.getCurrentPosition(onSuccess, onError);
-        if(position.coords.speed > 350)
-        {
-            navigator.notification.beep(4);
-            navigator.notification.vibrate(2000);
-        }
+    function onDeviceReady() {    
     }
 
-    // onSuccess Geolocation
-    //
-    function onSuccess(position) {
-        var element = document.getElementById('geolocation');
-        element.innerHTML = 'Velocidad: ' + position.coords.speed + '<br />';
+    function mostrarMensaje() {
+        navigator.notification.alert(
+            'GANASTE!', 'Final del juego', 'Salir'
+        );
     }
 
-    // onError Callback receives a PositionError object
-    //
-    function onError(error) {
-        alert('code: '    + error.code    + '\n' +
-                'message: ' + error.message + '\n');
+    function lanzarSonido() {
+        navigator.notification.beep(4);
+    }
+
+    function vibracion() {
+        navigator.notification.vibrate(3500);
     }
 
     </script>
   </head>
   <body>
-    <p id="geolocation"></p>
+    <p><a href="#" onclick="mostrarMensaje(); return false;">Ver Mensaje</a></p>
+    <p><a href="#" onclick="lanzarSonido(); return false;">Hacerme sonar!!</a></p>
+    <p><a href="#" onclick="vibracion(); return false;">¡¡¡Hacerme vibrar!!!</a></p>
   </body>
 </html>
