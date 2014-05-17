@@ -1,9 +1,28 @@
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes.dex : \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\HolaAndroidNotification.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$string.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\classes\com\example\hello\R.class \
-D:\Proyectos\Android\HolaAndroidNotification\platforms\android\ant-build\dexedLibs\classes-a555ccadc9dc4da00cf4c78d12b1ea88.jar \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes.dex : \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\HelloWorld.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\R$string.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\com\example\hello\R.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$1$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$1$2.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$2$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$2$2.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$2$3.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$2$4.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$2.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$3$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$3$2.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$3$3.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$3$4.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$3.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$4$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$4.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$5$1.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification$5.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\dialogs\Notification.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\classes\org\apache\cordova\vibration\Vibration.class \
+D:\Proyectos\Android\HolaMundoCordova\platforms\android\ant-build\dexedLibs\classes-fad7de097738c797a71f264e5f24f881.jar \
